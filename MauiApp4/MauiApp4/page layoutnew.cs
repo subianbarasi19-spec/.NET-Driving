@@ -1,0 +1,29 @@
+namespace MauiApp4;
+
+<? xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns = "http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp2.NewSample"
+             Title="NewSample">
+
+    <FlexLayout Direction = "Row" Wrap="Wrap">
+
+        <Label Text = "Welcome to content.NET MAUI!"
+               VerticalOptions="Center"
+               HorizontalOptions="Center" />
+
+        <Button Text = "Action1"
+                HeightRequest="100"
+                WidthRequest="200" />
+
+        <Button Text = "Action2"
+                HeightRequest="100"
+                WidthRequest="200" />
+
+        <Button Text = "Action3"
+                HeightRequest="100"
+                WidthRequest="200" />
+
+    </FlexLayout>
+
+</ContentPage>
