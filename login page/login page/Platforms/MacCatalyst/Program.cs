@@ -1,7 +1,7 @@
 ﻿using ObjCRuntime;
 using UIKit;
 
-namespace login_page
+namespace Login_page
 {
     public class Program
     {

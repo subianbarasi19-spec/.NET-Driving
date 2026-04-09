@@ -1,9 +1,10 @@
-namespace login_page;
-
-public partial class login_page : ContentPage
+namespace login_page
 {
-	public login_page()
-	{
-		InitializeComponent();
-	}
+    public partial class login_page : ContentPage
+    {
+        public login_page()
+        {
+            InitializeComponent();
+        }
+    }
 }

@@ -1,4 +1,4 @@
-﻿namespace login_page
+﻿namespace Login_page
 {
     public partial class MainPage : ContentPage
     {

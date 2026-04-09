@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace login_page
+namespace Login_page
 {
     [Register("AppDelegate")]
     public class AppDelegate : MauiUIApplicationDelegate

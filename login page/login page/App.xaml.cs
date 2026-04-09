@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 
-namespace login_page
+namespace Login_page
 {
     public partial class App : Application
     {
